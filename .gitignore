@@ -1,0 +1,3 @@
+*.idea
+*cmake-build-debug
+ft_ssl
